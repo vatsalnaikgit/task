@@ -9,7 +9,7 @@
     Design me a program that can store this data in the least number of bytes possible to a file, but that can also re-generate the original data set if needed.
 
     Author: Vatsal Naik
-    Date: August 08 2021
+    Date: August 11 2021
 *****/
 
 #include <stdio.h>
