@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1628733290 source:c:\users\vatsal naik\documents\firmwareprojects\projecttask\task\task\codingtask\main.c
+	<stdio.h>
+	<stdlib.h>
+
